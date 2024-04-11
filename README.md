@@ -1,1 +1,1 @@
-Python code which interaces with .txt (file).
+Python code which interacts  with .txt (file).
