@@ -1,17 +1,15 @@
-player_health = 1000
+stock_price_1 = 43.12
 
-# reduce by 100 here
-player_health = 900
-print(player_health)
+######################
 
-# and here
-player_health = 800
-print(player_health)
+stock_price_2 = 200.12
+print(stock_price_2)
 
-# and here
-player_health = 700
-print(player_health)
+stock_price_3 = 8.34
+print(stock_price_3)
 
-# and here
-player_health = 600
-print(player_health)
+stock_price_4 = 13.84
+print(stock_price_4)
+
+stock_price_5 = 21.20
+print(stock_price_5)
