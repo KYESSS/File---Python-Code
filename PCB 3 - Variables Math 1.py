@@ -1,6 +1,6 @@
 player_health = 1000
 armor_multiplier = 2
 
-armored_health = player_health * armor_multiplier 
+player_health_multi = player_health * armor_multiplier 
 
-print(armored_health)
+print(player_health_multi)
