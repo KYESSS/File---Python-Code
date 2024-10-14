@@ -1,2 +1,2 @@
-player_health = 1000
-print(player_health)
+stock_price = 245.36
+print(stock_price)
